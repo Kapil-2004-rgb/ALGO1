@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    int arr[] = {1,1,3,5,4,06,8,4,7,9};
+    int arr[] = {1,1,3,5,4,6,8,4,7,9};
     int count = 0;
     int n = sizeof(arr)/ sizeof(arr[0]);
 
